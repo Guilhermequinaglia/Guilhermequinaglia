@@ -1,7 +1,7 @@
 - 👋 Olá! Eu sou o Guilherme Quinaglia
 - 
 - 👀 Atualmente estudo Ciências da Computação
-- 🌱 Estudando Python e JavaScript 
+- 🌱 Estudando Python,HTML e JavaScript 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -19,7 +19,8 @@
 
 
 
-  ![Quinaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermequinaglia&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Quinaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermequinaglia&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom_title=Tecnologia)
+
   
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
