@@ -16,10 +16,9 @@
   <br/>
   <br/>
 
+  ![Quinaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermequinaglia&show_icons=true&theme=tokyonight)
 
 
-
-  ![Quinaglia GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermequinaglia&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom_title=Tecnologia)
 
   
 
