@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Guilherme Quinaglia
+- 👋 Olá! Eu sou o Guilherme
 - 👀 Atualmente estudo Ciências da Computação
 - 🌱 Estudando JavaScript e C++ 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
