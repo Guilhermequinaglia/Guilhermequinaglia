@@ -1,13 +1,4 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<!-- Presentation -->
-<p>
-  
-- 👋 Olá! Eu sou o Guilherme Quinaglia
+  - 👋 Olá! Eu sou o Guilherme Quinagliaa
 - 👀 Atualmente estudo Ciências da Computação
 - 🌱 Estudando JavaScript e C++ 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
