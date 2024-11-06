@@ -1,4 +1,7 @@
-  - 👋 Olá! Eu sou o Guilherme Quinagliaa
+![snake animation](https://github.com/<Guilhermequinaglia>/<Guilhermequinaglia>/blob/output/github-contribution-grid-snake2.svg)
+            
+
+- 👋 Olá! Eu sou o Guilherme Quinaglia
 - 👀 Atualmente estudo Ciências da Computação
 - 🌱 Estudando JavaScript e C++ 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
