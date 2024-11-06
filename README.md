@@ -5,17 +5,12 @@
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
 - 😄 Pronouns: ele/dele
 
-  ## Tecnologias que eu uso no meu dia 
+  ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-<div style="display: inline_block"><br/>
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
