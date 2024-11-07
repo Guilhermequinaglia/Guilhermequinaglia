@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Guilhermequinaglia/Guilhermequinaglia/blob/output/github-contribution-grid-snake.gif)
+
 - 👋 Olá! Eu sou o Guilherme
 - 👀 Atualmente estudo Ciências da Computação
 - 🌱 Estudando JavaScript e C++ 
