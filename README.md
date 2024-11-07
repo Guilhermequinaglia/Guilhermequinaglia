@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Guilherme+Quinaglia!;" />
 </h1>
-<h3>Desenvolvedor Web Front-End </h3>
+
 
 - 👀 Cursando Ciências da Computação e Gestão em Tecnologia da Informação
 - 🌱 Estudando JavaScript e C++ 
