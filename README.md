@@ -4,7 +4,7 @@
 
 
 - 👀 Cursando Ciências da Computação e Gestão em Tecnologia da Informação
-- 🌱 Estudando JavaScript e C++ 
+- 🌱 Estudando: Java e C++ 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -14,17 +14,17 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   
-  
+    <img align="center" alt="Kali-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali-linux/kali-linux-original.svg">
 
 
   
