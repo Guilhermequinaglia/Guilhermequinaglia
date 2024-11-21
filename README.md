@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Guilherme+Quinaglia!;" />
 </h1>
 
-
 - 👀 Cursando Ciências da Computação e Gestão em Tecnologia da Informação
 - 🌱 Estudando: Java e C++ 
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
