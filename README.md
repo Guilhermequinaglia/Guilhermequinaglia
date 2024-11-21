@@ -7,7 +7,8 @@
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
 - 😄 Pronouns: ele/dele
 
-  ## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
