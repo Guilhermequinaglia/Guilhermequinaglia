@@ -4,7 +4,7 @@
 
 - 👀 Formado: Gestão em Tecnologia da Informação
 - 👀 Cursando: Ciência da Computação 5° Período  
-- 🌱 Estudando: JavaScript e C++ 
+- 🌱 Estudando: JavaScript e React
 - 📫 Contate-me no email: guilhermequinaglia102@gmail.com
 - 😄 Pronouns: ele/dele
 
