@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Guilherme Quinaglia!<br><br>🌍 I'm from São Paulo, Brazil.<br><br>🎓 I'm currently pursuing a degree in Computer Science 5th period.<br>💻 Aspiring Full-Stack Developer, learning and growing every day.<br>🎯 Focused on HTML, CSS, JavaScript, Git, and Web Development.<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
+<p align="left">👋 Hi, I'm Guilherme Quinaglia!<br><br>🌍 I'm from São Paulo, Brazil.<br><br>🎓 I'm currently pursuing a degree in Computer Science 5th period.<br>💻 Aspiring Front-end Developer, learning and growing every day.<br>🎯 Focused on HTML, CSS, JavaScript, Git, and Web Development.<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
 ###
 
