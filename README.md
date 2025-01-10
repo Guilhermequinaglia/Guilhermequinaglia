@@ -1,42 +1,66 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Guilherme+Quinaglia!;" />
-</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-quinaglia-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="guilhermequinaglia102@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  </a>
+</div>
 
-- 👀 Formado: Gestão em Tecnologia da Informação
-- 👀 Cursando: Ciência da Computação 5° Período  
-- 🌱 Estudando: JavaScript e React
-- 📫 Contate-me no email: guilhermequinaglia102@gmail.com
-- 😄 Pronouns: ele/dele
+###
 
-## Tecnologias que eu uso no meu dia
+<h1 align="left">🌟 Welcome to My GitHub!</h1>
 
+###
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+<h3 align="center">💜  A Little About Me</h3>
 
-    
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+###
 
+<p align="left">👋 Hi, I'm Guilherme Quinaglia!<br><br>🌍 I'm from São Paulo, Brazil.<br><br>🎓 I'm currently pursuing a degree in Computer Science 5th period.<br>💻 Aspiring Full-Stack Developer, learning and growing every day.<br>🎯 Focused on HTML, CSS, JavaScript, Git, and Web Development.<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
+###
 
-  
+<h3 align="center">🛠 Language and tools</h3>
 
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="center">🚀 What You’ll Find Here</h2>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###  
 
   <br/>
   <br/>
   <br/>
+  
 
  <!-- GIF -->
 <p align="left">
