@@ -25,7 +25,7 @@
 ###
 
 <p align="left">🌍 Sou de São Paulo, Brasil<br>🎓 Ciências da computação 5° Semestre<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br>✨ Criando projetos para aprimorar minhas habilidades</p>
-###
+
 
 <h3 align="center">🛠 Language and tools</h3>
 
