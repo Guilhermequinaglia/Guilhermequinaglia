@@ -11,16 +11,20 @@
 
 ###
 
-<h1 align="left">🌟 Welcome to My GitHub!</h1>
+<h2 align="center">🌟 Welcome to My GitHub!</h2>
 
 ###
 
-<h3 align="center">:blue_heart:  A Little About Me</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80" />
+  </a>
+
+  <h3 align="left">💙 Olá, eu sou o Guilherme Quinaglia!</h3>
 
 ###
 
-<p align="left">👋 Hi, I'm Guilherme Quinaglia!<br><br>🌍 I'm from São Paulo, Brazil.<br><br>🎓 Graduated in Information Technology Management <br><br>🎓 I'm currently pursuing a degree in Computer Science 5th period.<br>💻 Aspiring Front-end Developer, learning and growing every day.<br>🎯 Focused on HTML, CSS, JavaScript, Git, and Web Development.<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
-
+<p align="left">🌍 Sou de São Paulo, Brasil<br>🎓 Ciências da computação 5° Semestre<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
@@ -39,6 +43,8 @@
   <img scr= alt="Pat-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
