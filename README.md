@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Ciências da computação 5° Semestre<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, React.js <br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Ciências da computação 6° Semestre<br>⚡ Aspirante a Cloud Computing<br>🎯 Foco em Cloud, AWS, Azure e Microsoft <br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 
 <h3 align="center">🛠 Language and tools</h3>
