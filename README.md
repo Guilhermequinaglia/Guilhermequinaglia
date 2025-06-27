@@ -16,8 +16,9 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d7e6&background=FF56FF00&center=true&width=435&lines=Cloud computing+%F0%9F%9A%80" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Enginner;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
   </a>
 
   <h3 align="left">💙 Olá, eu sou o Guilherme Quinaglia!</h3>
