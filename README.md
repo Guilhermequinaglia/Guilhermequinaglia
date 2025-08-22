@@ -21,7 +21,7 @@
 </p>
   </a>
 
-  <h3 align="left">💙 Olá, eu sou o Guilherme Quinaglia!</h3>
+  <h3 align="left">💙 Olá, me chamo Guilherme Quinaglia!</h3>
 
 ###
 
