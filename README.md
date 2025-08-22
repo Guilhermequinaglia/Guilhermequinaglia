@@ -49,7 +49,7 @@
 <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="100" />
-   <img width="100" />
+   <img width="150" />
 
 
 
