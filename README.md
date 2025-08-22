@@ -46,6 +46,9 @@
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" /
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=google" height="40" alt="google logo"  />
+  <img width="12" /
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
    <img width="12" />
