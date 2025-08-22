@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Ciências da computação 6° Semestre<br>⚡ Aspirante a Cloud Computing<br>🏆 Certificações: AWS Cloud Practitioner, ⏳️ AZ-900  
+<p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Ciência da computação 6° Semestre<br>⚡ Aspirante a Cloud Computing<br>🏆 Certificações: AWS Cloud Practitioner, ⏳️ AZ-900  
 1X AWS, Microsoft Azure e Google cloud (GCP)<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 
