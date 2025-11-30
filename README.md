@@ -51,14 +51,9 @@
   <img width="12" />
    <img width="310" />
 
-
-
-<h2 align="center">🚀 What You’ll Find Here</h2>
-
 ###
 
 <h3 align="center">🔥   
-
 
 ###  
 
