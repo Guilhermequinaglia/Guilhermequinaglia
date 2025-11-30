@@ -51,10 +51,6 @@
   <img width="12" />
    <img width="310" />
 
-###
-
-<h3 align="center">🔥   
-
 ###  
 
   <br/>
