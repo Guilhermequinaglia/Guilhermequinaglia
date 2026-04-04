@@ -43,6 +43,8 @@
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
 <img width="12" />
 
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"/>
 <img width="12" />
 
@@ -52,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"/>
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
+
 
 ###  
 
