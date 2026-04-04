@@ -26,7 +26,7 @@
 ###
 
 <p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Ciência da computação 7° Semestre<br>⚡ Aspirante a Cloud Computing<br>🏆 Certificações: AWS Cloud Practitioner,AZ-900, AI-900, Google Cloud Enginner associate⏳️ (Em andamento)
-<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<br><br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,aws,azure,gcp" />
