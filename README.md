@@ -31,26 +31,28 @@
 
 <h3 align="center">🛠 Language and tools</h3>
 
-###
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img align="left" alt="AWS" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" /
-  <img width="12" />
-<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-   <img width="310" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
 
 ###  
 
